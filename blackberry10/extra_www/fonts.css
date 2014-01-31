@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Slate Pro;
+  src: url(./fonts/SlatePro.woff);
+}
+@font-face {
+  font-family: Slate Pro;
+  src: url(./fonts/SlatePro-Bold.woff);
+  font-weight: bold;
+}
+@font-face {
+  font-family: Slate Pro;
+  src: url(./fonts/SlatePro-Italic.woff);
+  font-style: italic, oblique;
+}
+@font-face {
+  font-family: Slate Pro;
+  src: url(./fonts/SlatePro-BoldItalic.woff);
+  font-weight: bold;
+  font-style: italic, oblique;
+}
+@font-face {
+  font-family: Slate Pro;
+  src: url(./fonts/SlatePro.woff);
+}
+body { font-family:Slate Pro; font-size:14pt; font-size:18pt;}
