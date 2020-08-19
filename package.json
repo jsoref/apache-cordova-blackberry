@@ -27,7 +27,7 @@
         "localize": "*0.4.2",
         "zip": "0.0.6",
         "xml2js": "0.1.13",
-        "validator": "0.4.1",
+        "validator": "13.1.1",
         "wrench": "1.4.4",
         "shelljs": "0.2.6",
         "exit": "0.1.1",
